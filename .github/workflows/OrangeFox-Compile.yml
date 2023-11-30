@@ -34,7 +34,7 @@ on:
       DEVICE_NAME:
         description: 'Specify your Device Codename.'
         required: true
-        default: 'PD2171-eng'
+        default: 'PD2171'
       BUILD_TARGET:
         description: 'Specify your Build Target'
         required: true
